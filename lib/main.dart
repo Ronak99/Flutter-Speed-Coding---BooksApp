@@ -132,8 +132,7 @@ class ShowCase extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        Navigator.push(context,
-            MaterialPageRoute(builder: (context) => Details(bookObject)));
+        /* /* leaving this null, checkout the master branch to get its code */ */
       },
       child: Row(
         children: <Widget>[
@@ -231,8 +230,7 @@ class ShowBooks extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        Navigator.push(context,
-            MaterialPageRoute(builder: (context) => Details(bookObject)));
+       /* leaving this null, checkout the master branch to get its code */
       },
       child: Row(
         children: <Widget>[
