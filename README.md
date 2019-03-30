@@ -1,16 +1,15 @@
-# booksapp
+# Flutter Speed Coding - BOOKS APP UI
+This repository hosts the complete code of the demo flutter app that I built, recorded and published the recording on youtube.
 
-A new Flutter project.
+[Watch the video](https://youtu.be/trbJ9cNLAHk)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Branches
 
-A few resources to get you started if this is your first Flutter project:
+Master branch has the complete code for the app.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+If you want the code for the first part, check out the Part-1 branch.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+---
