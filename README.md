@@ -13,8 +13,7 @@ If you want the code for the first part, check out the Part-1 branch.
 
 ## Screenshots
 
-![alt text](https://github.com/Ronak99/Flutter-Speed-Coding---BooksApp/blob/master/screenshots/first_page.jpeg)
-First Screen
+<img src="https://github.com/Ronak99/Flutter-Speed-Coding---BooksApp/blob/master/screenshots/first_page.jpeg" align="left" width="50%" >
 
-![alt text](https://github.com/Ronak99/Flutter-Speed-Coding---BooksApp/blob/master/screenshots/second_page.jpeg)
-Second Screen
+<img src="https://github.com/Ronak99/Flutter-Speed-Coding---BooksApp/blob/master/screenshots/second_page.jpeg" align="left" width="50%" >
+
