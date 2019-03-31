@@ -3,8 +3,6 @@ This repository hosts the complete code of the demo flutter app that I built, re
 
 [Watch the video](https://youtu.be/trbJ9cNLAHk)
 
----
-
 ## Branches
 
 Master branch has the complete code for the app.
